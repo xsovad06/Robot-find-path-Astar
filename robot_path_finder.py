@@ -127,7 +127,7 @@ class RobotPathFinder:
             if idx == 0:
                 self.map[position[0]][position[1]] = "start"
             elif idx == len(path) - 1:
-                self.map[position[0]][position[1]] = " goal"
+                self.map[position[0]][position[1]] = "goal "
             else:
                 self.map[position[0]][position[1]] = "====="
 

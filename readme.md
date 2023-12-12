@@ -30,5 +30,5 @@ For the previous command the following outputs can be expected. Keep in mind tha
 [     |wall |     |     |     |     |     |=====|wall ]
 [     |     |     |     |hole |     |wall |     |=====]
 [     |     |     |     |tree |tree |wall |     |=====]
-[     |tree |     |     |     |     |     |     | goal]
+[     |tree |     |     |     |     |     |     |goal ]
 ```
